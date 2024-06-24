@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     private SearchView searchView;
     private TextView tvResult, tvLocation, tvMinTemp, tvMaxTemp, tvFeelsliketemp, Humidity, pressure, sunrise, sunset, visibility,Longitude,Latitude;
-    private String apiKey = "8e89c31fc86656987d89782e32d673d5";
+    private String apiKey = "8e89c31fc866";///apply your api
     private RelativeLayout mainLayout; // Declare RelativeLayout variable
     private LottieAnimationView lottieAnimationView;
 
